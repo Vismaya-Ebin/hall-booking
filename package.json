@@ -1,33 +1,29 @@
 {
-    "name": "hallbooking",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-      "start": "node index.js",
-      "dev": "nodemon index.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Vismaya-Ebin/NodeJsLearning.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Vismaya-Ebin/NodeJsLearning/issues"
-    },
-    "homepage": "https://github.com/Vismaya-Ebin/NodeJsLearning#readme",
-    "dependencies": {
-     
-      "express": "^4.17.3"
-     
-    },
-    "devDependencies": {
-      "nodemon": "^2.0.15"
-    }
+  "name": "hallbooking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vismaya-Ebin/NodeJsLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vismaya-Ebin/NodeJsLearning/issues"
+  },
+  "homepage": "https://github.com/Vismaya-Ebin/NodeJsLearning#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
- 
-  
+}
